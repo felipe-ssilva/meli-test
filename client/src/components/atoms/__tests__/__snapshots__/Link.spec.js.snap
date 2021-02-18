@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<a
+  className="Link__A-sc-1dh4ev0-0 gsJJXU"
+  color="inherit"
+  href="/"
+  onClick={[Function]}
+>
+  Test Link
+</a>
+`;

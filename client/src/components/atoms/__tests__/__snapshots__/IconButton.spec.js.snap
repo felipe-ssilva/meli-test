@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<button
+  className="IconButton__Button-yvsbn1-0 hwvofK"
+  type="button"
+>
+  <img
+    src="/static/logo.png"
+  />
+</button>
+`;

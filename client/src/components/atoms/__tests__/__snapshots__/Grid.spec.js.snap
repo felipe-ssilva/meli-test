@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="Grid-sc-7fho9k-0 eifmpO"
+>
+  <div>
+    Grid 1
+  </div>
+  <div>
+    Grid 2
+  </div>
+  <div>
+    Grid 3
+  </div>
+</div>
+`;

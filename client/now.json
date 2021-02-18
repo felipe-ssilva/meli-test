@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "Mercado Livre Frontend Test",
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }],
+  "routes": [
+    {
+      "src": "/items/(?<id>[^/]+)$",
+      "dest": "/items?id=$id"
+    }
+  ]
+}

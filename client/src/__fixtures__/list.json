@@ -1,0 +1,63 @@
+{
+  "author": {
+    "name": "Felipe",
+    "lastname": "Silva"
+  },
+  "categories": [
+    "Eletrônica, Audio y Video",
+    "IPod",
+    "Reproductores",
+    "IPod touch",
+    "32 GB"
+  ],
+  "items": [
+    {
+      "id": "1",
+      "title": "Apple Ipod Touch 5g 16gb Negro Igual A Nuevo Completo Unico!",
+      "price": {
+        "currency": "USD",
+        "amount": "1980",
+        "decimals": 0
+      },
+      "picture": "/static/picture.jpg",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "id": "2",
+      "title": "Apple Ipod Touch 5g 16gb Negro Igual A Nuevo Completo Unico!",
+      "price": {
+        "currency": "USD",
+        "amount": "1980",
+        "decimals": 0
+      },
+      "picture": "/static/picture.jpg",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "id": "3",
+      "title": "Apple Ipod Touch 5g 16gb Negro Igual A Nuevo Completo Unico!",
+      "price": {
+        "currency": "USD",
+        "amount": "1980",
+        "decimals": 0
+      },
+      "picture": "/static/picture.jpg",
+      "condition": "Nuevo",
+      "free_shipping": true
+    },
+    {
+      "id": "4",
+      "title": "Apple Ipod Touch 5g 16gb Negro Igual A Nuevo Completo Unico!",
+      "price": {
+        "currency": "USD",
+        "amount": "1980",
+        "decimals": 0
+      },
+      "picture": "/static/picture.jpg",
+      "condition": "Nuevo",
+      "free_shipping": true
+    }
+  ]
+}

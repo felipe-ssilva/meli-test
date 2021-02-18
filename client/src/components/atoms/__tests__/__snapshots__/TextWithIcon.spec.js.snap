@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="TextWithIcon-v7x5c0-2 gxLptL TextWithIcon__Wrapper-v7x5c0-0 ePVtQK"
+>
+  <span>
+    Test TextWithIcon
+  </span>
+  <img
+    alt="logo"
+    className="TextWithIcon__Icon-v7x5c0-1 bkxtfY"
+    src="/static/logo.png"
+  />
+</div>
+`;

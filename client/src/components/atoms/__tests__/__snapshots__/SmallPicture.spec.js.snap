@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<img
+  alt="logo"
+  className="SmallPicture-zfr3dl-0 ZeLaI"
+  src="/static/logo.png"
+>
+  Test SmallPicture
+</img>
+`;
